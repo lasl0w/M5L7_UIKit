@@ -12,6 +12,7 @@ struct M5L7_UIKitApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            // touch
         }
     }
 }

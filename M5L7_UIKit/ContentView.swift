@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         // NOT a SwiftUI element, yet we can use it in a SwiftUI project.  W00t! W00t!
         MyMapView()
-        //Text("my text")
+        // touch
     }
 }
 

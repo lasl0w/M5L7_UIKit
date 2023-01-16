@@ -23,7 +23,7 @@ struct MyMapView: UIViewRepresentable {
         
         // use UITextView when we want to turn a string into an attributed string - i.e. HTML+CSS, complex or existing web styling of text elements.  Alternatively use WebKit (put it in a "Webview")
         let textView = UITextView()
-        // the new goods - commit test
+        // the new goods - touch
         
         // use WKwebView() when we want a full-on wrapped webview
         let webView = WKWebView()
